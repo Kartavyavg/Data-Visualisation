@@ -50,7 +50,7 @@ project-root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/graph-visualizer-cli.git
+git clone https://github.com/kartavyavg/graph-visualizer-cli.git
 cd graph-visualizer-cli
 ```
 
@@ -110,7 +110,6 @@ Slices proportional to the values.
 
 A 3-dimensional bar chart for more advanced visual appeal.
 
-*You can take screenshots while running to include them here.*
 
 ---
 
